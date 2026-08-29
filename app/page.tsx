@@ -428,7 +428,7 @@ const translations: Record<Language, Translation> = {
       findOnline: "Encuéntrame online",
       viewPortfolio: "Ver portafolio",
     },
-    countries: ["Brasil", "EE. UU.", "China", "Alemania", "Todo el mundo"],
+    countries: ["Brasil", "Estados Unidos.", "China", "Alemania", "Todo el mundo"],
     studio: {
       owner: "Estudio — Propietario",
       guest: "Estudio — Invitado",
@@ -472,7 +472,7 @@ const translations: Record<Language, Translation> = {
         },
         {
           title: "Estándar Internacional",
-          description: "Trabaja en Brasil y EE. UU. con clientes de más de 50 ciudades.",
+          description: "Trabaja en Brasil y Estados Unidos. con clientes de más de 50 ciudades.",
           icon: "🌍",
         },
         {
