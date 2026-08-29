@@ -543,7 +543,7 @@ const translations: Record<Language, Translation> = {
       guestStudio: "Estudio Invitado",
       visitInstagram: "Visitar en Instagram",
       rights: "Todos los derechos reservados.",
-      since: "Tatuador desde 1997 • Brasil y EE. UU.",
+      since: "Tatuador desde 1997 • Brasil y Estados Unidos.",
     },
     gallery: {
       close: "Cerrar galería",
