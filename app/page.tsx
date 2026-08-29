@@ -207,7 +207,7 @@ const translations: Record<Language, Translation> = {
         "With more than two decades of experience, the artist works with clients worldwide, creating unique pieces with precision and artistic direction. Available for international bookings, guest spots, and conventions.",
       features: [
         "High-end branding",
-        "Mobile-first layout",
+        "Original Projects",
         "Social proof",
         "WhatsApp contact",
         "Instagram presence",
@@ -352,7 +352,7 @@ const translations: Record<Language, Translation> = {
         "Com mais de duas décadas de experiência, o artista atende clientes de todo o mundo, criando peças únicas com precisão e direção artística. Disponível para agendamentos internacionais, guest spots e convenções.",
       features: [
         "Marca de alto padrão",
-        "Layout pensado para celular",
+        "Projetos autorais",
         "Prova social",
         "Contato pelo WhatsApp",
         "Presença no Instagram",
@@ -498,7 +498,7 @@ const translations: Record<Language, Translation> = {
         "Con más de dos décadas de experiencia, el artista trabaja con clientes de todo el mundo, creando piezas únicas con precisión y dirección artística. Disponible para reservas internacionales, guest spots y convenciones.",
       features: [
         "Marca de alta gama",
-        "Diseño optimizado para móviles",
+        "Proyectos originales",
         "Prueba social",
         "Contacto por WhatsApp",
         "Presencia en Instagram",
